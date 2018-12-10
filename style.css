@@ -207,8 +207,7 @@ nav {
   background: rgb(44, 49, 60);
 }
 .menu-name {
-  margin-left: 7%;
-  margin-bottom: 0;
+  display: none;
 }
 .banner {
   position: absolute;
@@ -259,6 +258,11 @@ nav {
   }
   .active {
     display: block;
+  }
+  .menu-name {
+    display: block;
+    margin-left: 7%;
+    margin-bottom: 0;
   }
 }
 
