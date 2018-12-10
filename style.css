@@ -209,12 +209,6 @@ nav {
 .menu-name {
   display: none;
 }
-.banner {
-  position: absolute;
-  left: 50%;
-  margin-left: -50px !important;  /* 50% of your logo width */
-  display: block;
-}
 .nav-items {
   width: 80%;
   margin: 0 auto;
