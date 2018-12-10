@@ -207,7 +207,8 @@ nav {
   background: rgb(44, 49, 60);
 }
 .menu-name {
-  clear: both;
+margin-left: 10%;
+margin-bottom: 0;
 }
 .banner {
   position: absolute;
